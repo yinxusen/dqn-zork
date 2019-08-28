@@ -1,0 +1,11 @@
+go east
+go west
+go south
+go north
+go northeast
+go northwest
+go southeast
+go southwest
+climb tree
+climb down
+take egg

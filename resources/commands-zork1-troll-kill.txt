@@ -1,0 +1,21 @@
+go east
+go south
+go north
+go down
+go west
+go up
+go southwest
+go northeast
+turn on lamp
+kill troll with sword
+go southeast
+enter house
+turn off lamp
+take garlic
+open trap door
+kill thief with knife
+go northwest
+take lamp
+take sword
+open window
+move rug
