@@ -1,4 +1,6 @@
-# DQN-Zork
+# DQN-Zork (deprecated)
+
+Note: This repository is deprecated. Please refer to the new repository: https://github.com/yinxusen/deepword
 
 A DQN framework to play Zork.
 
